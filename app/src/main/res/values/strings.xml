@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lat3-IF9-10120761-Muhamad Rizan Karindra</string>
+    <string name="Monitory_Membantu_Anda">Monitory Membantu Anda</string>
+    <string name="Mengontrol_HP_Anak">Mengontrol HP Anak</string>
+    <string name="mulai">Mulai</string>
+    <string name="Beli_Kode_Keluarga_Disini">Beli Kode Keluarga Disini</string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="kata1">"Ketikkan kode keluarga yang Ayah Bunda "</string>
+    <string name="kalimat1">Ketikkan kode keluarga yang Ayah Bunda</string>
+    <string name="miliki_disini">miliki disini</string>
+    <string name="kalimat2">Belum punya kode keluarga?</string>
+    <string name="kode">A1B2C3</string>
+    <string name="kalimat3">Dengan menekan tombol masuk berarti Anda menyetujui</string>
+    <string name="kalimat4">Ketentuan Pengguna dan Kebijakan Data kami</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="Nama_Panggilan_Kamu">Nama Panggilan Kamu</string>
+    <string name="kalimat5">Contoh : Budi</string>
+    <string name="umur_kamu">Umur Kamu</string>
+    <string name="kalimat6">Contoh : 12</string>
+    <string name="oke">Oke</string>
+    <string name="kata5">Beres! Sekarang</string>
+    <string name="kata6">udah bisa ngecek</string>
+    <string name="kata7">penggunaan HP mu</string>
+    <string name="kata8">tiap hari buat bantu kamu</string>
+    <string name="kata9">ngatur waktu :)</string>
+    <string name="nama">Nama</string>
+</resources>
